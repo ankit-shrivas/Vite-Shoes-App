@@ -1,0 +1,19 @@
+.dis-flex {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.text-left {
+  text-align: left;
+}
+
+.btn {
+  background-color: red;
+}
+
+h1 {
+  font-weight: 800px;
+  font-size: 80px;
+  ;
+}
